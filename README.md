@@ -7,7 +7,7 @@
 <br />Leveraging PHP, MySQL, HTML, CSS, and JavaScript, the system centralizes data on crop production, inventory, and sales, empowering farmers and agricultural businesses with streamlined processes and real-time insights.
 
 🚀 Key Features:
-✅ Automated data entry to eliminate manual paperwork and errors
+<br />✅ Automated data entry to eliminate manual paperwork and errors
 <br />✅ Real-time monitoring of inventory levels for optimized resource utilization
 <br />✅ Sales transaction tracking for revenue analysis and growth opportunities
 <br />✅ Robust reporting and analysis functionalities for informed decision-making
